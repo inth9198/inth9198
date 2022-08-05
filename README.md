@@ -107,7 +107,7 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 
-![minho's GitHub stats](https://github-readme-stats.vercel.app/api?username=inth9198&show_icons=true&theme=radical)
+![inth9198's GitHub stats](https://github-readme-stats.vercel.app/api?username=inth9198&show_icons=true&theme=radical)
 
 ## CS공부 노션
 https://www.notion.so/171722de241544698e075f5fe42d06ce
