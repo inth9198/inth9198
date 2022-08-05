@@ -96,6 +96,9 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 
 <br/> <br/> <br/> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=inth9198)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 # 🦀Skills
 ### Platforms & Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
