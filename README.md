@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=minho%20lee&fontSize=90)
 
-# 진화하는 개발자 이민호입니다🐜
+# 진화하는 개발자 이민호입니다🐜      
 
 ## 백준 티어
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=inth9198)](https://solved.ac/inth9198)
 
-
-# 진행한 프론트엔드 프로젝트
+       
+# 진행한 프론트엔드 프로젝트   
 # 취업사관학교
 (추가 예정)
 
