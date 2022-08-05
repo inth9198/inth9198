@@ -3,6 +3,13 @@
 # 진화하는 개발자 이민호입니다🐜      
 <br/> <br/> <br/> 
 
+# 약력
+ - 2021/03 ~ 현재 : 세종대학교 소프트웨어공학과 재학
+ - 2021/11 ~ 현재 : 42서울 카뎃
+ - 2022/03 ~ 2022/06 : 클래스 액트 인턴
+ - 2022/08 ~ 현재 : 4차산업기술인재 - Web 1기
+
+
 ## 백준 티어
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inth9198)](https://solved.ac/inth9198/)
@@ -110,7 +117,6 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 
-![inth9198's GitHub stats](https://github-readme-stats.vercel.app/api?username=inth9198&show_icons=true&theme=radical)
 
 ## CS공부 노션
 https://www.notion.so/171722de241544698e075f5fe42d06ce
