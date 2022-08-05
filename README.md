@@ -2,12 +2,14 @@
 
 # 진화하는 개발자 이민호입니다🐜      
 <br/> <br/> <br/> 
+
 ## 백준 티어
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inth9198)](https://solved.ac/inth9198/)
 
 
 <br/> <br/> <br/> 
+
        
 # 진행한 프론트엔드 프로젝트  
 <br/> <br/> 
@@ -25,11 +27,13 @@
 
 ## 유전체 정보 기반으로 큐레이션 및 의견을 공유할 수 있는 플랫폼
 <br/> 
+
 (인턴 진행하면서 참여함)
 
 ![image](https://user-images.githubusercontent.com/82989054/183032376-28917d04-b619-4c80-88d4-3d8edee64693.png)
 
 <br/> 
+
 ### 프로젝트 스킬 스택
 
 - next.js - react framework
@@ -37,7 +41,9 @@
 - emotion - css-in-js(style library)
 - formik - form control library
 - material-ui - ui library
+
 <br/> 
+
 ### 프로젝트에 기여한점
 데이터 파이프라인을 구축하여 정제된 데이터가 화면에 출력될수 있도록 함
 
@@ -45,16 +51,18 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 
 <br/> <br/> <br/> 
 
-
-
 # 클래스액트 인턴(특허 기여)
 
 ## 임상 유전체, 임상시험 빅데이터 기반 암 진단 및 치료 지원 전문가 서비스
+
 <br/> 
+
 중소벤처기업부 R&D
 빅데이터 기반
 서비스 개발 사업
+
 <br/> 
+
 ## 임상 참여 조건의 정형화를 위한 데이터 파이프라인 처리방법
 1) 진행기간 : 2022/03/02~2022/06/30
 2) 주요내용 : 환자에게 임상실험을 추천하는 알고리즘 (특허)
@@ -63,7 +71,9 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 5) 본인이 기여한 점 : 모든 파이프 라인에 대한 코드 구현
 6) 사용한 기술스택 및 지식 : 파이썬(주피터 노트북, pandas, numpy)
 7) 결과 및 성과 : 이전 임상 실험 추천 시스템보다 더욱 구체화된 환자에 맞춤형 임상 실험 추천하는 파이프라인 구축
+
 <br/> 
+
 ## 임상 참여 조건의 정형화를 위한 속성인식방법
 
 1) 진행기간 : 2022/03/02~2022/06/30
@@ -73,7 +83,9 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 5) 본인이 기여한 점 : 모든 파이프 라인에 대한 코드 구현
 6) 사용한 기술스택 및 지식 : 파이썬(주피터 노트북, pandas, numpy)
 7) 결과 및 성과 : 이전 임상 실험 추천 시스템보다 더욱 구체화된 환자에 맞춤형 임상 실험 추천하는 파이프라인 구축을 위해 환자의 속성을 인식하는 방법
+
 <br/> 
+
 ## 클래스액트 인턴(논문 참여)
 
 1) 진행기간 : 2022/03/02~2022/06/30
@@ -95,7 +107,7 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 
-![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
+![minho's GitHub stats](https://github-readme-stats.vercel.app/api?username=inth9198&show_icons=true&theme=radical)
 
 ## CS공부 노션
 https://www.notion.so/171722de241544698e075f5fe42d06ce
