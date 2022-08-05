@@ -4,7 +4,8 @@
 <br/> <br/> <br/> 
 ## 백준 티어
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=inth9198)](https://solved.ac/inth9198)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inth9198)](https://solved.ac/inth9198/)
+
 
 <br/> <br/> <br/> 
        
@@ -17,7 +18,9 @@
 <br/> <br/>
 
 # 온코리더
-<br/> 
+
+<br/>
+
 ## 프로젝트 설명
 
 ## 유전체 정보 기반으로 큐레이션 및 의견을 공유할 수 있는 플랫폼
@@ -80,6 +83,19 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 5) 결과 및 성과 : 이전에 부정을 처리하는 알고리즘 negex, deepen 에 비하여 더 좋은 성능을 나타냄 (더 높은 accuracy, 더 높은 precision, 더 높은 recall, 더 높은 f1, 더 적은 loss)
 
 <br/> <br/> <br/> 
+
+# 🦀Skills
+### Platforms & Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+
+![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
 
 ## CS공부 노션
 https://www.notion.so/171722de241544698e075f5fe42d06ce
