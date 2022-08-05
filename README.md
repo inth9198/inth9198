@@ -1,17 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=minho%20lee&fontSize=90)
 
 # 진화하는 개발자 이민호입니다🐜      
-
+<br/> <br/> <br/> 
 ## 백준 티어
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=inth9198)](https://solved.ac/inth9198)
 
+<br/> <br/> <br/> 
        
-# 진행한 프론트엔드 프로젝트   
+# 진행한 프론트엔드 프로젝트  
+<br/> <br/> 
+
 # 취업사관학교
 (추가 예정)
 
-
+<br/> <br/>
 
 # 온코리더
 
@@ -37,13 +40,17 @@
 
 react framework, redux-saga를 이용하여 로그인 시스템 구현
 
+<br/> <br/> <br/> 
+
+
+
+# 클래스액트 인턴(특허 기여)
+
 # 임상 유전체, 임상시험 빅데이터 기반 암 진단 및 치료 지원 전문가 서비스
 
 중소벤처기업부 R&D
 빅데이터 기반
 서비스 개발 사업
-
-## 클래스액트 인턴(특허 기여)
 
 ## 임상 참여 조건의 정형화를 위한 데이터 파이프라인 처리방법
 1) 진행기간 : 2022/03/02~2022/06/30
@@ -72,10 +79,11 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 4) 사용한 기술스택 및 지식 : 파이썬(주피터 노트북, pandas, numpy)
 5) 결과 및 성과 : 이전에 부정을 처리하는 알고리즘 negex, deepen 에 비하여 더 좋은 성능을 나타냄 (더 높은 accuracy, 더 높은 precision, 더 높은 recall, 더 높은 f1, 더 적은 loss)
 
-
+<br/> <br/> <br/> 
 
 ## CS공부 노션
 https://www.notion.so/171722de241544698e075f5fe42d06ce
+<br/> <br/> <br/> 
 
 ## 네이버 블로그
 https://blog.naver.com/inth2474
