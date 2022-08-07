@@ -24,9 +24,9 @@
 # 4차산업기술인재 - Web 1기
 * 깃허브 주소
 https://github.com/inth9198/4th_industrial_technology_talent
-<br/>
 * 개발 노트
 https://www.notion.so/softsquared/8d25c2cb344b40f6a05b9ff049dd55eb
+<br/>
 <br/>
 
 # 온코리더
