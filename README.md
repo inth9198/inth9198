@@ -126,3 +126,7 @@ https://www.notion.so/171722de241544698e075f5fe42d06ce
 
 ## 네이버 블로그
 https://blog.naver.com/inth2474
+<br/> <br/> <br/> 
+
+## 개발일지
+https://www.notion.so/softsquared/8d25c2cb344b40f6a05b9ff049dd55eb
