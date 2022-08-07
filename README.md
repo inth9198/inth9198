@@ -22,8 +22,7 @@
 <br/> <br/> 
 
 # 4차산업기술인재 - Web 1기
-(추가 예정)
-
+https://github.com/inth9198/4th_industrial_technology_talent
 <br/> <br/>
 
 # 온코리더
