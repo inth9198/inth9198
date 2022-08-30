@@ -26,6 +26,8 @@
 https://github.com/inth9198/4th_industrial_technology_talent
 * 개발 노트
 https://www.notion.so/softsquared/8d25c2cb344b40f6a05b9ff049dd55eb
+* 마켓컬리 클로코딩
+https://github.com/inth9198/4th_industrial_technology_talent/tree/main/3%EC%A3%BC%EC%B0%A8/week3
 <br/>
 <br/>
 
