@@ -132,6 +132,7 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 ## CS공부 노션
 https://www.notion.so/171722de241544698e075f5fe42d06ce
 <br/> <br/> <br/> 
+https://www.notion.so/b7a400f79ff84743ae8254472646e7e6
 
 ## 네이버 블로그
 https://blog.naver.com/inth2474
