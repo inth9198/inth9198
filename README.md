@@ -36,11 +36,11 @@ https://www.notion.so/softsquared/3-React-Component-JSX-Props-3d4deb639b55487b8f
 <br/>
 <br/>
 
-# 하이퍼 클라우드
+# HyperCloud
 
 <br/>
 
-쿠버네티스 gui 프로젝트
+HyperCloud는 사용자 주도의 선택적 환경을 제공하는 클라우드 엔진으로, 사용자 환경에 맞는 인프라 및 플랫폼을 선택하여 빠르고 쉽게 구성해주는 통합 클라우드입니다.  또한, 검증을 거친 다양한 오픈소스와 Tmax의 소프트웨어의 결합 및 자동화를 통해 사용 편의를 고려하였으며, 이를 통해 클라우드 기반 신기술 활용에 최적화를 이룬 클라우드 플랫폼입니다.
 
 <br/>
 
@@ -51,6 +51,8 @@ https://www.notion.so/softsquared/3-React-Component-JSX-Props-3d4deb639b55487b8f
 데이터 베이스 활용가능한 코드 에디터
 
 <br/>
+
+
 # 온코리더
 
 <br/>
