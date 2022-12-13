@@ -12,12 +12,7 @@
  - 2017/03 ~ 현재 : 세종대학교 바이오융합공학과 재학
  - 2022/10 ~ 현재 : 티맥스 클라우드 프론트엔드 연구원
 
-## 백준 티어
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inth9198)](https://solved.ac/inth9198/)
-
-
-<br/> <br/> <br/> 
 
        
 # 진행한 프론트엔드 프로젝트  
@@ -41,6 +36,9 @@ https://www.notion.so/softsquared/3-React-Component-JSX-Props-3d4deb639b55487b8f
 <br/>
 
 HyperCloud는 사용자 주도의 선택적 환경을 제공하는 클라우드 엔진으로, 사용자 환경에 맞는 인프라 및 플랫폼을 선택하여 빠르고 쉽게 구성해주는 통합 클라우드입니다.  또한, 검증을 거친 다양한 오픈소스와 Tmax의 소프트웨어의 결합 및 자동화를 통해 사용 편의를 고려하였으며, 이를 통해 클라우드 기반 신기술 활용에 최적화를 이룬 클라우드 플랫폼입니다.
+
+<br/>
+<img width="1323" alt="스크린샷 2022-12-13 오후 5 19 06" src="https://user-images.githubusercontent.com/82989054/207263087-6e74057a-d5db-4842-a1af-a57140f5bd82.png">
 
 <br/>
 
@@ -146,6 +144,12 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 ![numpy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 
+
+## 백준 티어
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inth9198)](https://solved.ac/inth9198/)
+
+<br/> <br/> <br/> 
 
 ## CS공부 노션
 https://www.notion.so/171722de241544698e075f5fe42d06ce
