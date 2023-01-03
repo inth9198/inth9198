@@ -18,20 +18,7 @@
 
        
 # 진행한 프론트엔드 프로젝트  
-<br/> <br/> 
 
-# 4차산업기술인재 - Web 1기
-* 깃허브 주소
-https://github.com/inth9198/4th_industrial_technology_talent
-* 개발 노트
-https://www.notion.so/softsquared/8d25c2cb344b40f6a05b9ff049dd55eb
-* 마켓컬리 클로코딩
-https://github.com/inth9198/4th_industrial_technology_talent
-* 과제 시현 영상
-https://www.notion.so/softsquared/3-React-Component-JSX-Props-3d4deb639b55487b8fa83d975eec2ea5
-
-<br/>
-<br/>
 
 # HyperCloud
 
@@ -67,6 +54,21 @@ HyperCloud는 사용자 주도의 선택적 환경을 제공하는 클라우드 
 ![image](https://user-images.githubusercontent.com/82989054/183032376-28917d04-b619-4c80-88d4-3d8edee64693.png)
 
 <br/> 
+
+<br/> <br/> 
+
+# 4차산업기술인재 - Web 1기
+* 깃허브 주소
+https://github.com/inth9198/4th_industrial_technology_talent
+* 개발 노트
+https://www.notion.so/softsquared/8d25c2cb344b40f6a05b9ff049dd55eb
+* 마켓컬리 클로코딩
+https://github.com/inth9198/4th_industrial_technology_talent
+* 과제 시현 영상
+https://www.notion.so/softsquared/3-React-Component-JSX-Props-3d4deb639b55487b8fa83d975eec2ea5
+
+<br/>
+<br/>
 
 ### 프로젝트 스킬 스택
 
