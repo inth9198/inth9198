@@ -37,7 +37,8 @@ HyperCloud는 사용자 주도의 선택적 환경을 제공하는 클라우드 
 <br/>
 
 데이터 베이스 활용가능한 코드 에디터
-
+<br/>
+(깃 랩으로 이전)
 <br/>
 <img width="1721" alt="스크린샷 2023-04-03 오후 3 21 59" src="https://user-images.githubusercontent.com/82989054/229427486-c9e6632c-d546-4662-9353-84ce24106d2f.png">
 
