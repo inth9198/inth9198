@@ -242,6 +242,9 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 
 
+## 개발자가 된 후 프론트엔드 개발 공부내용 정리
+https://rigorous-tibia-973.notion.site/f70fb898b13d482db2729b51b11a9234?pvs=4
+
 ## 백준 티어
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inth9198)](https://solved.ac/inth9198/)
