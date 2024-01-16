@@ -57,10 +57,11 @@ HyperCloud는 사용자 주도의 선택적 환경을 제공하는 클라우드 
 <br/>
 1. Nginx와 도커, 쿠버네티스를 활용하여 배포(이미지를 생성한 뒤 디플로이,서비스,인그래스 yaml작성 후 쿠버네티스를 이용하여 직접 배포)<br/>
 2. 클러스터, 호스트, 가상머신, 템플릿, 스토리지 도메인, 디스크, 이미지, 파일시스템 등 여러서비스 및 페이지 구현<br/>
-3. 프로젝트 생성부터 배포 ci/cd까지 프론트부분 전반을 기여<br/>
+3. 프로젝트 생성부터 배포 ci/cd까지 프론트부분 전반을 기여 및 리드 개발<br/>
 4. usecontext, structure schema를 이용해서 폼 공통 컴포넌트 구현<br/>
 5. eslint를 활용하여 DX최적화<br/>
-6. webpack을 활용하여 번들링 작업 수행<br/>
+6. webpack을 활용하여 번들링 작업 수행(빌드 파일 용량을 5분의 1로 감량)<br/>
+7. 여러 리소스에 시각화 컴포넌트를 도입하여 그래프등 다양한 시각화 자료를 제공함<br/>
 <br/>
 <br/>
 
@@ -223,7 +224,15 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 4) 사용한 기술스택 및 지식 : 파이썬(주피터 노트북, pandas, numpy)
 5) 결과 및 성과 : 이전에 부정을 처리하는 알고리즘 negex, deepen 에 비하여 더 좋은 성능을 나타냄 (더 높은 accuracy, 더 높은 precision, 더 높은 recall, 더 높은 f1, 더 적은 loss)
 
-<br/> <br/> <br/> 
+
+<br/> 
+## 개발자가 된 후 스터디
+### 프론트엔드 스터디(웹팩, 바벨, eslint, 도커, 리액트 쿼리, 최신 라이브러리나 스택등등)
+https://rigorous-tibia-973.notion.site/f70fb898b13d482db2729b51b11a9234?pvs=4
+### UX 스터디
+https://www.notion.so/UX-a8800e77ae0745dab052eda00818e10a
+
+<br/> <br/> 
 
 ![inth9198's GitHub stats](https://github-readme-stats.vercel.app/api?username=inth9198&show_icons=true&theme=radical)
 
@@ -243,8 +252,6 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 
 
-## 개발자가 된 후 프론트엔드 개발 공부내용 정리
-https://rigorous-tibia-973.notion.site/f70fb898b13d482db2729b51b11a9234?pvs=4
 
 ## 백준 티어
 
