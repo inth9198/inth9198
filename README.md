@@ -227,9 +227,13 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 
 <br/> 
 ## 개발자가 된 후 스터디
+<br/> 
 ### 프론트엔드 스터디(웹팩, 바벨, eslint, 도커, 리액트 쿼리, 최신 라이브러리나 스택등등)
+<br/> 
 https://rigorous-tibia-973.notion.site/f70fb898b13d482db2729b51b11a9234?pvs=4
+<br/> 
 ### UX 스터디
+<br/> 
 https://www.notion.so/UX-a8800e77ae0745dab052eda00818e10a
 
 <br/> <br/> 
