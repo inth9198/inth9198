@@ -92,7 +92,9 @@ HyperCloud는 사용자 주도의 선택적 환경을 제공하는 클라우드 
 <br/>
 (깃 랩으로 이전)
 <br/>
-![스크린샷 2023-06-15 오후 3 30 13](https://github.com/inth9198/inth9198/assets/82989054/bf28c93c-7909-4db1-951c-8bbdfbe91aeb)
+![image](https://github.com/inth9198/inth9198/assets/82989054/b3db300c-2606-497f-a244-47d4067c46e6)
+![image (1)](https://github.com/inth9198/inth9198/assets/82989054/079ece85-2fc8-4442-87b8-5e3412401268)
+
 
 <br/> 
 1. 파일트리, 브랜치 앤 태그, ci/cd, 머지 리퀘스트, 커밋 히스토리, 에디터페이지 등 여러서비스 및 페이지 구현<br/>
