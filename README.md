@@ -14,7 +14,8 @@
 
 
 
-
+# 블로그
+https://velog.io/@inth19198/posts
 
 
        
@@ -238,11 +239,15 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 <br/> 
 https://rigorous-tibia-973.notion.site/f70fb898b13d482db2729b51b11a9234?pvs=4
 <br/> 
+https://velog.io/@inth19198/posts
+<br/> 
 
 ### UX 스터디
 
 <br/> 
 https://www.notion.so/UX-a8800e77ae0745dab052eda00818e10a
+ <br/> 
+![스크린샷 2024-03-11 14 07 31](https://github.com/inth9198/inth9198/assets/82989054/cb4453ef-90ef-4954-8a0a-31c7e23a6ed8)
 
 <br/> <br/> 
 
