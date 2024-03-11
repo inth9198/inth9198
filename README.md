@@ -13,11 +13,6 @@
  - 2022/10 ~ 현재 : 티맥스 클라우드 프론트엔드 연구원
 
 
-
-# 블로그
-https://velog.io/@inth19198/posts
-
-
        
 # 진행한 프론트엔드 프로젝트  
 
@@ -246,7 +241,8 @@ https://velog.io/@inth19198/posts
 
 <br/> 
 https://www.notion.so/UX-a8800e77ae0745dab052eda00818e10a
- <br/> 
+<br/>
+
 ![스크린샷 2024-03-11 14 07 31](https://github.com/inth9198/inth9198/assets/82989054/cb4453ef-90ef-4954-8a0a-31c7e23a6ed8)
 
 <br/> <br/> 
@@ -280,6 +276,9 @@ https://www.notion.so/UX-a8800e77ae0745dab052eda00818e10a
 https://www.notion.so/171722de241544698e075f5fe42d06ce
 <br/> <br/> <br/> 
 https://www.notion.so/b7a400f79ff84743ae8254472646e7e6
+
+## 블로그
+https://velog.io/@inth19198/posts
 
 ## 네이버 블로그
 https://blog.naver.com/inth2474
