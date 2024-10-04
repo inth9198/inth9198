@@ -286,3 +286,12 @@ https://blog.naver.com/inth2474
 
 ## 개발일지
 https://www.notion.so/softsquared/8d25c2cb344b40f6a05b9ff049dd55eb
+
+### 인사평가
+
+
+![스크린샷 2024-09-26 17 30 19](https://github.com/user-attachments/assets/fecc84eb-5985-4135-85aa-ecaf8142fefe)
+![스크린샷 2024-09-26 17 30 08](https://github.com/user-attachments/assets/06a94cb3-061a-42d4-ad31-48775a92db62)
+![스크린샷 2024-09-26 17 29 56](https://github.com/user-attachments/assets/e25f2443-3bf7-4223-a71f-e162db4510b7)
+
+
