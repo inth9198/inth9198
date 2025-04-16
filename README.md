@@ -22,9 +22,108 @@
 # 진행한 프론트엔드 프로젝트  
 
 # ecount ERP
-<br/>
-## 버튼 설정 작업<br/>
 
+<br/>
+
+
+## Playwright 기반 테스트 자동화<br/>
+### 테스트 케이스 작성 및 유지보수<br/>
+
+1. Playwright를 활용하여 프론트엔드 전반의 E2E(End-to-End) 테스트 스크립트 작성<br/>
+
+2. UI 요소의 렌더링, 인터랙션, 상태 변화 등을 자동화된 테스트 케이스로 검증하여 기능 안정성 확보<br/>
+## 메뉴 <br/>
+### SiteMap 기반 섹션 뷰모델 구성<br/>
+
+1. 어트리뷰트(attribute) 정보를 바탕으로 ViewModel 초기 구성, 각 메뉴 노드를 MenuNodeView 타입으로 변환.<br/>
+
+2. 제네레이터를 통해 DataModel → ViewModel 전환, menu_dmc_id를 활용하여 섹션별 구성 요소 매핑.<br/>
+
+3. 데이터 변경 시 단순 데이터 변경(updateOnlyItemData)과 구조 변경(순서 변경, 그룹 추가 등)에 따른 분기(리졸버 호출) 처리.<br/>
+
+###  섹션 및 아이템 컴포넌트 구조 설계<br/>
+
+1. Depth1부터 Depth4까지 구분된 컴포넌트 설계 (Depth1Item, Depth2Item, …, Depth4Item).<br/>
+
+2. is_collapsed, is_hidden, is_default 등의 속성 기반 렌더링 분기 처리.<br/>
+
+3. 접고 펼치기, 카드뷰 스타일 적용 및 각 아이템에 대해 Hover 시 버튼 노출 로직 구현.<br/>
+
+###  드래그 앤 드랍 기능 구현 (6종)<br/>
+
+React DnD 기반으로 드래그 액션(예: add_group, change_name, change_order, delete_group, hide, collapse, set_default) 처리.
+
+동일 뎁스(1→1, 2→2, 3→3, 4→4) 및 특이 케이스(예: 4뎁스에서 다른 3뎁스의 4, 4뎁스에서 다른 3뎁스로 이동) 지원.
+
+드래그 중 시각적 안내를 위해 위치 박스 표시 및 화살표 UI 전환, 액션 후 DMC 업데이트를 통한 리렌더링.
+
+✅ 4. 검색 기능 구현
+
+입력한 검색어와 이름이 일치하는 노드를 sid 기준으로 리스트업.
+
+Enter 키를 사용해 순차 선택 및 강조 처리, Depth1 구분 저장 및 인덱스 순환 처리.
+
+커스텀 훅으로 기능 캡슐화하여 재사용성을 높임.
+
+✅ 5. 이름 변경 및 설정 기능
+
+change_name, set_default, hide, collapse 등의 설정 버튼 UI 제공.
+
+Hover 시 노출되는 버튼 구성으로 중첩 문제 해결, placeholder 비노출 및 inputRef 포커스 제어.
+
+✅ 6. 최적화
+
+React.memo 및 뎁스 단위 리렌더링 최소화.
+
+throttle 적용으로 불필요한 렌더링 방지 및 아이템/섹션 분리, 상태 흐름 단순화.
+
+수정된 항목만 반영하도록 리졸버 분기 최적화.
+
+✅ 7. 상태 저장 기능
+
+하단 푸터 영역에 저장 버튼 구현, 순서 변경, 이름 수정, 숨기기/기본 설정 등의 대상 저장.
+
+저장 시 Context Layer 및 dmc, vmc 상태 추적 후 업데이트 수행.
+
+API 및 라우팅 개선 및 디버깅
+메인 컨테이너 및 메뉴 렌더링 개선
+
+WrapperFrameUniversalNav, WrapperFrameLocalNav 등에서 메뉴 순서 정렬 및 하이라이트 로직 보완.
+
+메인 컨테이너 렌더링 개선을 위해 컨테이너 등록 및 rootApp 하드코딩 임시 처리.
+
+MenuFetcherStrategy V5 전환
+
+기존 MenuFetcherStrategyV3에서 V5로 전환하여, API 호출(GetNavigationLeftMenuAction, GetNavigationTopMenuAction) 시 메뉴 데이터 변환 로직 수정.
+
+getTopMenuDataAsync 및 getLeftMenuDataByParentAsync에서 새로운 타입(MenuInfo) 변환 로직 설계 및 디폴트 차일드 할당 로직 보완.
+
+이카운트앱 내에서 menu_fetcher 호출을 this.strateges.menu_fetcher.getStrategy('V5') 방식으로 적용.
+
+해시 라우터 및 이벤트 처리 개선
+
+HashRouterSystem에서 클릭 이벤트 기반 해시 데이터 처리 로직 수정.
+
+그룹 시퀀스 및 뎁스 처리 개선, 1뎁스 클릭 시 2뎁스 로드 및 디폴트 차일드 탐색 로직 보완.
+
+무한 루프 및 Uncaught (in promise) Error 발생 문제 해결(예: Infinity loop at finding child menu).
+
+즐겨찾기 및 추가 UI/UX 개선
+
+FavoriteMenuService 관련 코드 리팩토링, 즐겨찾기 메뉴 렌더링 및 상태 업데이트 로직 개선.
+
+내부 이슈 해결 및 브랜치/빌드, 서버 재시작 후 안정화 검증.
+
+디버깅 및 내부 이슈 정리
+
+updateOnlyItemData() 호출 시 화면 갱신 문제(예: selectedNode 상태 변경 누락) 수정.
+
+드래그 시 자식 메뉴 및 해시 관련 이슈(예: 3뎁스 하이라이트 미적용, 메뉴 순서 정렬 문제) 해결을 위한 코드 리뷰 및 리팩토링.
+
+서버 API 호출 로직(convertV5RawDataToMenuInfo 등) 개선 및 관련 사이드 이펙트 대응.
+
+
+## 버튼 설정 작업<br/>
 
 ### 버튼 설정 섹션 설계 및 리졸버 구현.<br/>
 1. 버튼 설정 제네레이터 구현.<br/>
