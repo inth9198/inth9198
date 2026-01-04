@@ -433,6 +433,12 @@ react framework, redux-saga를 이용하여 로그인 시스템 구현
 
 ## 개발자가 된 후 스터디
 
+### 데브옵스 스터디
+<br/> 
+### 리눅스
+<br/> 
+
+https://github.com/inth9198/dev-ops-study
 <br/> 
 
 ### 프론트엔드 스터디(웹팩, 바벨, eslint, 도커, 리액트 쿼리, 최신 라이브러리나 스택등등)
