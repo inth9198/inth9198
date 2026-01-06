@@ -14,9 +14,46 @@
  - 2017/03 ~ 2022/02 : 세종대학교 바이오융합공학과 재학
 
 
+## OpenReplay 셀프호스팅 및 통합 프로젝트
 
+**프로젝트 개요**
+- OpenReplay(오픈소스 세션 리플레이 도구)를 활용한 사용자 행동 분석 시스템 구축
+- ECOUNT 웹 애플리케이션과의 통합 및 커스터마이징
 
+**주요 작업 내용**
 
+1. **셀프호스팅 환경 구축**
+   - Docker Compose 기반 OpenReplay 로컬 서버 구축
+   - PostgreSQL, ClickHouse, Redis, MinIO 등 멀티 컨테이너 환경 구성
+
+2. **커스텀 통합 스크립트 개발**
+   - ECOUNT 웹앱과 OpenReplay 연동을 위한 JavaScript 통합 스크립트 개발
+   - 외부 CSS 파일 자동 인라인 처리 기능 구현 (세션 리플레이 시 스타일 보존)
+   - Fetch API 활용한 비동기 CSS 다운로드 및 변환
+
+3. **Nginx 리버스 프록시 설정**
+   - CORS 정책 처리 및 외부 리소스 프록시 설정
+   - 외부 도메인(zeus03.ecount.com, test.ecount.com) 리소스 프록시 구성
+   - URL 인코딩 처리 및 SSL 연결 설정
+
+4. **개발 환경 자동화**
+   - 단일 사용자 인증 우회 설정 자동화 스크립트 작성
+   - 빠른 시작을 위한 가이드 문서 작성
+
+**기술 스택**
+- Docker, Docker Compose
+- Nginx (리버스 프록시, CORS 설정)
+- JavaScript (Vanilla JS)
+- Linux Shell Script
+
+**성과**
+- 외부 SaaS 대신 자체 호스팅으로 데이터 보안 강화
+- 커스텀 스크립트로 CSS 미적용 문제 해결
+- 개발 환경 설정 자동화로 초기 세팅 시간 단축
+
+관련세미나 발표자료
+
+https://inth9198.github.io/sessionreplay/
 
 
        
