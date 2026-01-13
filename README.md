@@ -3,6 +3,10 @@
 # 진화하는 개발자 이민호입니다🐜      
 <br/> <br/> <br/> 
 
+# Gemini LLM과 FAISS 벡터 DB를 사용한 인터넷뱅킹 FAQ 기반 RAG 시스템
+
+https://github.com/inth9198/internet_bank_rag_ai/tree/master
+
 # 약력
  - 2025/01 ~ 현재 : 이카운트 프론트엔드 및 데브옵스
  - 2025/06 ~ 현재 : LLM 운용 애플리캐이션 개발자 과정
