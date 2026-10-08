@@ -3,9 +3,7 @@
 # 진화하는 개발자 이민호입니다🐜      
 <br/> <br/> <br/> 
 
-# Gemini LLM과 FAISS 벡터 DB를 사용한 인터넷뱅킹 FAQ 기반 RAG 시스템
 
-https://github.com/inth9198/internet_bank_rag_ai/tree/master
 
 # 약력
  - 2026/03 ~ 현재 : 신한DS 신한자산신탁 AX 플랫폼 구축 (풀스택 · LLM 애플리케이션 · DevOps)
